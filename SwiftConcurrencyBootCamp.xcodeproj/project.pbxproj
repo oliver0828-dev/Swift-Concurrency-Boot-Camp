@@ -11,6 +11,7 @@
 		34178C442C6DB54800E74E24 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34178C432C6DB54800E74E24 /* ContentView.swift */; };
 		34178C462C6DB54A00E74E24 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34178C452C6DB54A00E74E24 /* Assets.xcassets */; };
 		34178C492C6DB54A00E74E24 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34178C482C6DB54A00E74E24 /* Preview Assets.xcassets */; };
+		34178C502C6DB55E00E74E24 /* DoCatchTryThrowBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34178C4F2C6DB55E00E74E24 /* DoCatchTryThrowBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		34178C432C6DB54800E74E24 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		34178C452C6DB54A00E74E24 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		34178C482C6DB54A00E74E24 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		34178C4F2C6DB55E00E74E24 /* DoCatchTryThrowBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoCatchTryThrowBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				34178C412C6DB54800E74E24 /* SwiftConcurrencyBootCampApp.swift */,
 				34178C432C6DB54800E74E24 /* ContentView.swift */,
+				34178C4F2C6DB55E00E74E24 /* DoCatchTryThrowBootcamp.swift */,
 				34178C452C6DB54A00E74E24 /* Assets.xcassets */,
 				34178C472C6DB54A00E74E24 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				34178C502C6DB55E00E74E24 /* DoCatchTryThrowBootcamp.swift in Sources */,
 				34178C442C6DB54800E74E24 /* ContentView.swift in Sources */,
 				34178C422C6DB54800E74E24 /* SwiftConcurrencyBootCampApp.swift in Sources */,
 			);
